@@ -1,0 +1,39 @@
+.productInfo {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+}
+
+.productInfo h1 {
+    font-size: 32px;
+}
+
+.productInfo p {
+    color:#666666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.productInfo p a {
+    color: rgb(0, 102, 153);
+}
+
+.productInfo button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: none;
+    color: #666666;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.productInfo button:hover {
+    opacity: 0.7;
+}
